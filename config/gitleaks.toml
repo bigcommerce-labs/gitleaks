@@ -23,7 +23,8 @@ paths = [
     '''pnpm-lock.yaml''',
     '''Database.refactorlog''',
     '''vendor''',
-    '''bigcommerce/tests/*''',
+    '''tests/*''',
+    '''(.*?)/Tests/*'''
 ]
 
 [[rules]]
