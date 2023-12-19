@@ -24,7 +24,8 @@ paths = [
     '''Database.refactorlog''',
     '''vendor''',
     '''tests/*''',
-    '''(.*?)/Tests/*'''
+    '''(.*?)/Tests/*''',
+    '''Localizable.strings'''
 ]
 
 [[rules]]
